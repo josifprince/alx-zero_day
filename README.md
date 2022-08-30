@@ -1,2 +1,1 @@
-My first 
-adding up new line
+My first readme
